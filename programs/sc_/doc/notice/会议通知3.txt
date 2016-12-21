@@ -1,0 +1,19 @@
+﻿                 %()meeting通知 
+ 
+%()notifyObject：
+
+会议主题：%()topics
+会议内容：%()contentsList
+参会人员：%()participantsList 
+会议日期：%()date 
+会议地点：%()place 
+相关说明：%()mattersList
+
+
+请以上参会人员知悉，并准时参加，谢谢  
+                                                                         
+
+ 
+                              %()institute    
+                              %()notifyDate                   
+      

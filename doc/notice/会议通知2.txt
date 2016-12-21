@@ -1,0 +1,20 @@
+﻿                                            %()meeting通知 
+
+
+%()notifyObject： 
+
+    经研究，兹定于%()date在%()place召开%()topics会议。  
+ 
+
+    会议内容：%()contentsList
+    会议地点：%()place 
+    会议时间：%()date
+    参会人员： 
+        
+              %()participantsList； 
+    注意事项：%()mattersList                
+
+                                       
+%()institute
+
+                                       %()notifyDate

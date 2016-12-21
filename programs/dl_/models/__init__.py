@@ -1,0 +1,1 @@
+from all_models import all_models

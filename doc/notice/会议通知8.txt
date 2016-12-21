@@ -1,0 +1,13 @@
+﻿                    关于召开%()meeting的通知
+%()notifyObject:
+     为了%()topics,%()institute决定于%()date在()place召开%()meeting。现将有关事项通知如下：
+    一、会议内容：%()contentsList
+    二、参会人员：%()participantsList
+    三、会议时间、地点：%()date在%()place。
+    四、其他事项：
+    （一）请与会人员持会议通知到%()place报到。
+    （二）请将会议回执传真至%(）institute
+
+
+                                                         %()institute
+                                                         %()notifyDate

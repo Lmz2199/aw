@@ -1,0 +1,1 @@
+我叫%(name)s，毕业于%(school)s%(major)s。

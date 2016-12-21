@@ -1,0 +1,12 @@
+　　                     %()meeting的通知
+　　%()notifyObject：
+　　%()topics，经研究决定召开%()meeting。现将有关事项通知如下：
+　　一、会议内容：%()contentsList
+    二、参加人员：%()participantsList
+　　二、会议时间：%()date
+    三、会议地点：%()place
+　　四、要求：%()mattersList
+　　
+                                                     %()institute
+　　                                                 %()notifyDate
+ 

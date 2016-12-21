@@ -1,0 +1,5 @@
+请假条
+%(name1)s：
+我因%(reason)s需请假(从%(date1)s至%(date2)s)，共%(number)s天，希批准为谢!
+请假人：%(name2)s
+%(date)s

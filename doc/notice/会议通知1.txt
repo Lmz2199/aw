@@ -1,0 +1,22 @@
+%()meeting的通知
+
+%()notifyObject：
+
+定于%()date召开%()meeting。现将有关事宜通知如下：
+
+会议议题 %()topics。
+
+会议内容 %()contentsList。
+
+参加人员%()participantsList。
+
+会议时间%()date
+
+会议地点%()place。
+
+有关事宜%()mattersList。
+
+
+%()institute
+
+%()notifyDate

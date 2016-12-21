@@ -1,0 +1,14 @@
+﻿　　                          %()meeting的通知
+　　%()notifyObject：
+　　%()topics。相就有关事项通知如下：
+　　一、会议时间：%()date
+    二、地点：%()place
+　　三、参会人员：%()participantsList
+　　四、会议的主要内容(或会议议程)
+　　%()contentsList
+　　五、有关要求
+　　%()mattersList
+　　                                 特此通知
+　　                                                                                          %()institute
+　　                                                                                          %()notifyDate
+ 
