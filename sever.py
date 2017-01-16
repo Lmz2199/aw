@@ -81,17 +81,29 @@ def hc_():
     re = ''
     if(data.getlist('type')[0]=='hl'):
         parms = {
-                    'zhongwu_or_wanshang':data.getlist('p1')[0].encode('utf-8'),
-            'xiansheng':data.getlist('p2')[0].encode('utf-8'),
-            'xiaojie':data.getlist('p3')[0].encode('utf-8')
+            'zhongwu_or_wanshang':data.getlist('zhongwu_or_wanshang')[0].encode('utf-8'),
+            'xiansheng':data.getlist('xiansheng')[0].encode('utf-8'),
+            'xiaojie':data.getlist('xiaojie')[0].encode('utf-8'),
+            'xinlangdanwei':data.getlist('xinlangdanwei')[0].encode('utf-8'),
+            'xinniangdanwei':data.getlist('xinniangdanwei')[0].encode('utf-8'),
+            'guanxi':data.getlist('guanxi')[0].encode('utf-8'),
+            'shenfen':data.getlist('shenfen')[0].encode('utf-8'),
+            'which_fang':data.getlist('which_fang')[0].encode('utf-8'),
         }
         re = hl.generate_a_article(parms)
     if(data.getlist('type')[0]=='zs'):
         parms = {
-            'name':data.getlist('p1')[0].encode('utf-8'),
-            'dashou':data.getlist('p2')[0].encode('utf-8'),
-            'age':data.getlist('p3')[0].encode('utf-8'),
-            'year':data.getlist('p4')[0].encode('utf-8'),
+            'xingbie':data.getlist('xingbie')[0].encode('utf-8'),
+            'shenfen':data.getlist('shenfen')[0].encode('utf-8'),
+            'bf':data.getlist('bf')[0].encode('utf-8'),
+            'nl':data.getlist('nl')[0].encode('utf-8'),
+            'xm':data.getlist('xm')[0].encode('utf-8'),
+            'jbdz':data.getlist('jbdz')[0].encode('utf-8'),
+            'jtzz':data.getlist('jtzz')[0].encode('utf-8'),
+            'fyrbf':data.getlist('fyrbf')[0].encode('utf-8'),
+            'zbxm':data.getlist('zbxm')[0].encode('utf-8'),
+            'jj':data.getlist('jj')[0].encode('utf-8'),
+            'qtxm':data.getlist('qtxm')[0].encode('utf-8'),
         }
         re = zs.generate_a_article(parms)
     a.data = json.dumps({"r":re})

@@ -16,7 +16,7 @@ class zs :
 
         ]
         self.model_map = {
-            '女性':{
+            '宾客':{
                 '晚辈':models1.woman_wanbei,
                 '主持人':models1.woman_zhuchi
                   },

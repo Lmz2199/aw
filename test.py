@@ -36,6 +36,7 @@ class mytest(unittest.TestCase):
     def testgenerate_a_article(self):
         parms = {'jiancheng':'北信科','quancheng':'北京信息科技大学','didian':'北京','shangwu_or_xiawu':'上午'}
         at = self.kx.generate_a_article(parms)
+        print at
         self.assertGreater(len(at), min_at_len)
     #测试婚礼贺词
     def testhlgenerate_a_article(self):
@@ -54,36 +55,44 @@ class mytest(unittest.TestCase):
                                 "通过前几周的学习和考核评选出积极分子", "党支部书记，副书记及全体学生党员",
                                "教三六阶", "请大家带好笔和本做好笔记",
                                 "计算机院办", "2016-11-10 10:00")
+        print at
         self.assertGreater(len(at), min_at_len)
 
     def testregenerateNotice(self):
         at = self.sc.regenerateNotice()
+        print at
         self.assertGreater(len(at), min_at_len)
 
     def testgetCeremony(self):
         at = self.sc.getCeremony("北京信息科技大学", "2016-11-15 09:00", "报告厅", "计算机学院")
+        print at
         self.assertGreater(len(at), min_at_len)
 
     def testregenerateCeremony(self):
         at = self.sc.regenerateCeremony()
+        print at
         self.assertGreater(len(at), min_at_len)
 
     def testgetCoverLetter(self):
         at = self.sc.getCoverLetter("程序员", "bingham", "北京信息科技大学", "计算机应用技术", "NLP",
                         "熟练掌握机器学习算法", "英语六级", "联想集团", "开发测试工程师",
                                     "在实习过程中不断认识自我修正自我", "工作富有责任心")
+        print at
         self.assertGreater(len(at), min_at_len)
 
     def testregenerateCoverLetter(self):
         at = self.sc.regenerateCoverLetter()
+        print at
         self.assertGreater(len(at), min_at_len)
 
     def testgetMeeting(self):
         at = self.sc.getMeeting("20", "2016-11-15 09:00", "北京信息科技大学", "同学会筹备组")
+        print at
         self.assertGreater(len(at), min_at_len)
 
     def testregenerateMeeting(self):
         at = self.sc.regenerateMeeting()
+        print at
         self.assertGreater(len(at), min_at_len)
     def testqjt(self):
         p ={
@@ -95,6 +104,7 @@ class mytest(unittest.TestCase):
                 'name2':'朱星嘉',
                 'date':'20160930'}
         at = self.sc.getQjt(p)
+        print at
         self.assertGreater(len(at), min_at_len)
 
     #测试工作总结
