@@ -1,12 +1,12 @@
-ã€€ã€€                     %()meetingçš„é€šçŸ¥
-ã€€ã€€%()notifyObjectï¼š
-ã€€ã€€%()topicsï¼Œç»ç ”ç©¶å†³å®šå¬å¼€%()meetingã€‚ç°å°†æœ‰å…³äº‹é¡¹é€šçŸ¥å¦‚ä¸‹ï¼š
-ã€€ã€€ä¸€ã€ä¼šè®®å†…å®¹ï¼š%()contentsList
-    äºŒã€å‚åŠ äººå‘˜ï¼š%()participantsList
-ã€€ã€€äºŒã€ä¼šè®®æ—¶é—´ï¼š%()date
-    ä¸‰ã€ä¼šè®®åœ°ç‚¹ï¼š%()place
-ã€€ã€€å››ã€è¦æ±‚ï¼š%()mattersList
-ã€€ã€€
-                                                     %()institute
-ã€€ã€€                                                 %()notifyDate
+¡¡¡¡                     ¹ØÓÚ%()meetingµÄÍ¨Öª
+%()notifyObject£º
+        %()topics£¬¾­ÑĞ¾¿¾ö¶¨ÕÙ¿ª%()meeting¡£ÏÖ½«ÓĞ¹ØÊÂÏîÍ¨ÖªÈçÏÂ£º
+        Ò»¡¢»áÒéÄÚÈİ£º%()contentsList
+        ¶ş¡¢²Î¼ÓÈËÔ±£º%()participantsList
+        Èı¡¢»áÒéÊ±¼ä£º%()date
+        ËÄ¡¢»áÒéµØµã£º%()place
+        Îå¡¢ÒªÇó£º%()mattersList
+¡¡¡¡
+%()institute
+%()notifyDate
  

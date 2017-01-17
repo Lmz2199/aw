@@ -1,28 +1,29 @@
-﻿                    %()meeting的通知
-　　%()notifyObject：
+﻿                    关于%()meeting的通知
+公司各部、分公司：
 
-　　为%()topics，兹定于%()date在%()place召开%()meeting。现将有关事项通知如下：
+        为%()topics，兹定于%()date在%()place召开%()meeting。现将有关事项通知如下：
 
-　　一、会议时间
+        一、会议时间
 
-　　%()date
+        %()date
 
-　　二、会议地点
+        二、会议地点
 
-　　%()place
+        %()place
 
-　　三、参会人员
+        三、参会人员
 
-　　%()participantsList
+        %()participantsList
 
-　　四、会议内容 
+        四、会议内容 
 
-　　%()contentsList
+        %()contentsList
 
-　　五、具体要求
+        五、具体要求
 
-　　%()mattersList
+        %()mattersList
 
-　　特此通知。
+        特此通知。
 
-　　%()institute %()notifyDate
+%()institute 
+%()notifyDate
