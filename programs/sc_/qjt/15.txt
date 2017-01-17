@@ -1,0 +1,7 @@
+                                                                请假条
+%(name1)s：
+        兹因%(reason)s，需请假%(number)s天。请假（时间）从%(date1)s至%(date2)s，恳请批准，谢谢。
+此致
+             敬礼!
+                                                                                                请假人：%(name2)s
+                                                                                                时间： %(date)s

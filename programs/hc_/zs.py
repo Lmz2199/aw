@@ -63,7 +63,7 @@ if __name__ == '__main__':
         'jtzz':'中南海',
         'fyrbf':'侄子',
         'zbxm':'王文超',
-        'jj':'冬季',
+        'jj':'秋天',
         'qtxm':'杨林,郑国伟',
     }
     print kx.generate_a_article(keywords)

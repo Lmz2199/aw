@@ -1,8 +1,8 @@
-请假条
+                                                                请假条
 尊敬的%(name1)s：
-　　您好!
-　　我是%(name2)s，因为%(reason)s，需要请假(时间)从%(date1)s到%(date2)s，共%(number)s天假。恳请领导批准。
+　　    您好!
+　　    我是%(name2)s，因为%(reason)s，需要请假(时间)从%(date1)s到%(date2)s，共%(number)s天假。恳请领导批准。
 此致
-      敬礼
-      请假人：%(name2)s
-         %(date)s
+             敬礼
+                                                                                                请假人：%(name2)s
+                                                                                                %(date)s

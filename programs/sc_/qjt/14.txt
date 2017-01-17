@@ -1,0 +1,6 @@
+                                                                请假条
+尊敬的领导%(name1)s：
+        我是%(name2)s，因%(reason)s需要离开岗位%(number)s天（%(date1)s到%(date2)s）。
+        请批准!
+                                                                                                申请人：%(name2)s
+                                                                                                %(date)s

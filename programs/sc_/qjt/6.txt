@@ -1,5 +1,5 @@
-请假条
-日期：%(date)s
-请 假 人%(name2)s   部门主管%(name1)s
-具体事由%(reason)s	  请假类别	□公假  □病假   □事假 	
-请假时间 自%(date1)s至%(date2)s	共%(number)s天		 
+                                                                请假条
+        日期：%(date)s
+        请 假 人%(name2)s   部门主管%(name1)s
+        具体事由%(reason)s	  请假类别	□公假  □病假   □事假
+        请假时间 自%(date1)s至%(date2)s	共%(number)s天

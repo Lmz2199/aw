@@ -1,0 +1,7 @@
+                                                                请假条
+公司领导%(name1)s：
+        本人因%(reason)s原因，需请假%(number)s天。
+        时间：自%(date1)s至%(date2)s。
+        恳请批准。
+                                                                                                请假人：%(name2)s
+                                                                                                %(date)s

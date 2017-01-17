@@ -1,0 +1,5 @@
+                                                                请假条
+尊敬的%(name1)s：	
+        本人因%(reason)s，特从%(date1)s开始请假，于%(date2)s结束，期限为%(number)s天，请领导予批准，谢谢!
+                                                                                                申请人:%(name2)s
+                                                                                                %(date)s
